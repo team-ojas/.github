@@ -1,7 +1,7 @@
 # TEAM OJAS - NIT HAMIRPUR
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg"></img>
+  <img src="https://user-images.githubusercontent.com/56781761/230961191-7283af33-73b7-4227-a0ce-6001c9904dbf.jpg"></img>
 
 
 ### :sparkles: Fuelled by Innovation, driven by determination :sparkles:
@@ -10,12 +10,11 @@
 ## About
 > Departmental Team of Electrical Engineering for Fest Nimbus, Annual Techfest of NIT Hamirpur.
 <p>
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever
-since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not onlyf
-ive centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in
+The club's motto is <b>"Fueled by Innovation, driven by Determination,"</b> and its members work hard to come up with innovative and feasible answers to the world's pressing issues.
+We host both technical and non-technical activities with the goals of increasing students' enthusiasm for electrical engineering and creating a welcoming space where everyone feels comfortable sharing their ideas and having a go at making them a reality.
 </p>
 
-:computer: Visit : <a href="#">team-ojas.in</a> for more details!
+:computer: Visit : <a href="https://ojas.festnimbus.com/">ojas.festnimbus.com</a> for more details!
 
 <div align="center" margin-top="100px">
   <h3>Connect with us on</h3>
